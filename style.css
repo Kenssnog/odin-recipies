@@ -1,0 +1,7 @@
+.rounded-blue{
+    border: 3px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
